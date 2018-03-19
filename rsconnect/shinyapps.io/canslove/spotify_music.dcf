@@ -1,0 +1,13 @@
+name: spotify_music
+title: spotify_music
+username:
+account: canslove
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 267300
+bundleId: 1258861
+url: https://canslove.shinyapps.io/spotify_music/
+when: 1520503521.66483
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: z_only4test.R|image/open_graph_facebook.png|image/rtx1971j-1.jpg|image/spotify3.w710.h473.gif|image/turn-pandora-likes-into-spotify-playlist.1280x600.jpg|includes/bluetooth-headphones.jpg|includes/style.css|wc/merchant.txt.gz|wc/romeo.txt.gz|wc/summer.txt.gz|wc/wordcloud2.txt|data_not_used
